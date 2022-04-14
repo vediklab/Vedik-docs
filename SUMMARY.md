@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Vedik-docs](README.md)
-* [Overview](overview.md)
+* [Overview](README.md)
 
 ## Protocol
 
