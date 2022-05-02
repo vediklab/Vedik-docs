@@ -4,11 +4,11 @@
 
 ## Protocol
 
-* [Introduction to Zerope](protocol/introduction-to-zerope.md)
+* [Introduction to Zerope](protocol/introduction-to-vedik.md)
 
 ## Developers
 
-* [Invitation to Join Zerope](developers/invitation-to-join-zerope.md)
+* [Invitation to Join Zerope](developers/invitation-to-join-vedik.md)
 * [Invitation to Build Applications](developers/invitation-to-build-applications.md)
 * [Audits](developers/audits.md)
 * [Strategies](developers/strategies.md)
@@ -21,9 +21,9 @@
 
 * [Overview](for-businesses/overview.md)
 
-## Vedik Updates
+## Zerope Updates
 
-* [Updates](vedik-updates/updates.md)
+* [Updates](zerope-updates/updates.md)
 
 ***
 

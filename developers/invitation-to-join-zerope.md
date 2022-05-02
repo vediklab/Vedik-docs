@@ -1,2 +1,0 @@
-# Invitation to Join Vedik
-
